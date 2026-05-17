@@ -1,2 +1,19 @@
-# bazzite
- A simple download page for the Bazzite Deck ISO. I am not the creator of Bazzite — all credit goes to the official Bazzite team. I only provide a hosted mirror link and basic info for convenience. For the latest official releases, visit https://bazzite.gg.
+    This repository contains a simple HTML download page for the Bazzite Deck ISO, a SteamOS‑style gaming operating system.
+
+    Important:  
+    I am not the creator, developer, or maintainer of Bazzite.
+    All credit for Bazzite goes to the official team behind the project.
+
+    I only:
+
+        provide a Google Drive mirror link for convenience
+
+        created a clean HTML page for easier downloading
+
+        link to the official Bazzite website
+
+    For the latest official builds, updates, and documentation, visit:
+    https://bazzite.gg
+
+    This project is just a personal fan-made page to help others access the ISO more easily.
+
